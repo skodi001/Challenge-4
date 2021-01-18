@@ -1,0 +1,68 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-image: url("../images/bg-desktop.svg");
+  widows: 100%;
+  background-color: #6155a6;
+  color: #fff;
+}
+
+.huddle {
+  padding: 5%;
+}
+
+h2 {
+  color: #fff;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.first-row {
+  padding: 0 5%;
+}
+
+.description {
+  padding: 4% 5% 0% 0%;
+}
+
+.image2 {
+  width: 75%;
+}
+
+.myButton {
+  box-shadow: inset 0px 1px 0px 0px #ffffff;
+  background: linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+  background-color: #ffffff;
+  border-radius: 42px;
+  border: 1px solid #dcdcdc;
+  display: inline-block;
+  cursor: pointer;
+  color: #666666;
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 18px 76px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #ffffff;
+}
+
+.myButton:hover {
+  color: #393e46;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.second-row {
+  padding-bottom: 25px;
+  padding-top: 25px;
+  padding-left: 75%;
+}
+
+/*font-family: 'Poppins', sans-serif;*/
